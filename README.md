@@ -1,2 +1,7 @@
 # grafana
-grafana with docker compose
+
+```
+docker compose up
+```
+
+login with admin/admin
